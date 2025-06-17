@@ -1,13 +1,3 @@
-Of course. This is an excellent request, and by combining the general principles of surveying with the specific details from the Leica FlexLine TS02 manual you provided, we can create a perfect step-by-step guide for your task.
-
-You want to perform a traverse survey starting from a known point (CM9), orienting to another known point (CM10), and then measuring a series of new, unknown points.
-
-First, a crucial point from the manual: The Leica TS02 model **does not** include the automated "TraversePRO" application (see page 91/197 of the manual). This is not a problem! It simply means we will perform the traverse using the standard **Surveying** application, which is the classic and fundamental way to conduct a traverse.
-
-Here is your detailed guide.
-
----
-
 ### **Traverse Survey with a Leica TS02: CM9 to CM10**
 
 #### **Objective:**
